@@ -3,8 +3,8 @@
 var name = Joe
 var height = 74
 
-console.log("Joe:")
-console.log(name)
+console.log("Joe")
+console.log(Joe)
 
-console.log("74:")
-console.log(height)
+console.log("74")
+console.log(74)
